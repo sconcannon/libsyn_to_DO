@@ -1,0 +1,8 @@
+# don't include the xml
+input.xml
+# ignore the input and output folders
+input/
+output/
+files/
+data/
+
